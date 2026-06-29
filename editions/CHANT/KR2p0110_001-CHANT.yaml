@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0110/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 散見簡牘合輯敦煌研究院收藏的漢簡右條官牛將轉出入遣宜持魚一枚武威徒王馬入塞今還使入塞今還官前卅人轉官鄯善督使君寧入三百廿五錢入二百六十七錢到亟馳詣官史就私死死情何有和所縑一匹月必人支城傳審再拜府君教敦煌長史印元嘉二年九月廿日丁酉起
+  hash: sha256:86a41b6ece6257a54e573a81b389b5ff2168e75d9fdda0c3b4a681b4fa26a1d4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0110_CHANT_001-1a.1-h}
+metadata:
+  title: 敦煌研究院收藏的漢簡
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0110.xml
+hash: sha256:8de29db9baa7736f937f5612a88bf9d8a1becee1425c5fe012e18625b0b313a5
