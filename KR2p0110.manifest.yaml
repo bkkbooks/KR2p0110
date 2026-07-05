@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0110_001.yaml, hash: 'sha256:3c8b67680f42eb9a58e99a07302a08f65736da9749a3af4c02c4431006ee35f3'}
+  - {seq: 1, filename: KR2p0110_001.yaml, hash: 'sha256:8de29db9baa7736f937f5612a88bf9d8a1becee1425c5fe012e18625b0b313a5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0110_001.markers.yaml, hash: 'sha256:a39796370bfd4b04ca102d378465fedc420a393f80cb404888dc6b7195b00748'}
+  - {seq: 1, role: markers, filename: assets/KR2p0110_001.markers.yaml, hash: 'sha256:b5b710d01f42384c7efff5111103a51d00aee63b9592a47a8b76ecbd2240e7e7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 散見簡牘合輯敦煌研究院收藏的漢簡
   type: section
   level: 1
-hash: sha256:92841a0d75cfd991e3cd3b48da228cd7aee67a74f5c6bbfd453f8c42a4fcf966
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d59104098c41c1e21829be4ce8895eb40c9e2db63d0466562b8ea1c6f39f31a7
