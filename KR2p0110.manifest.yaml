@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0110/v1
 canonical_location: https://kanripo.org/bkk/KR2p0110/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 敦煌研究院收藏的漢簡
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0110_001.yaml, hash: 'sha256:8de29db9baa7736f937f5612a88bf9d8a1becee1425c5fe012e18625b0b313a5'}
+  - {seq: 1, filename: KR2p0110_001.yaml, hash: 'sha256:3c8b67680f42eb9a58e99a07302a08f65736da9749a3af4c02c4431006ee35f3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0110_001.markers.yaml, hash: 'sha256:b5b710d01f42384c7efff5111103a51d00aee63b9592a47a8b76ecbd2240e7e7'}
+  - {seq: 1, role: markers, filename: assets/KR2p0110_001.markers.yaml, hash: 'sha256:1c9a82bc02e14f41bced48aa25d7746a7de75682eb9fc4efa6388ff37554a552'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 散見簡牘合輯敦煌研究院收藏的漢簡
   type: section
   level: 1
-hash: sha256:d59104098c41c1e21829be4ce8895eb40c9e2db63d0466562b8ea1c6f39f31a7
+hash: sha256:790b17d3ac8e28757171801b7ca6acfdf55f461257cafb6b6153f6df2955c058
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
